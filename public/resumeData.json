@@ -2,10 +2,10 @@
   "main": {
     "name":"Andrei Brindas",
     "occupation":"Software Engineer",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "description":"Passion and self motivation are my strong points",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "bio":"Self motivated software engineer with a soft spot for interesting projects or work from where where I can learn something",
+    "contactmessage":"",
     "email": "andrei.brindas97@gmail.com",
     "phone": "0770-378-497",
     "address":{
@@ -14,8 +14,8 @@
       "state":"Timis",
       "zip": "300695"
     },
-    "website": "http://www.andreibrindas.com",
-    "resumedownload":"http://www.cv.andreibrindas.com",
+    "website": "http://www.andreibrindas.ro",
+    "resumedownload":"resume-AB.pdf",
     "social":[
       {
         "name":"linkedin",
@@ -30,7 +30,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"MY PRECIOUS:",
     "education":[
       {
         "school":"West University of Timisoara",
@@ -44,37 +44,37 @@
         "company":"BNG FERENDIA IT",
         "title":"Software Engineer ",
         "years":"September 2019 - Present",
-        "description":"I worked with my team in developing some REST API's and a front-end in ReactJS "
+        "description":"Description"
       }
     ],
     "skills":[
       {
         "name":"Java",
-        "level":"75%"
+        "level":"50%"
       },
       {
         "name":"Spring Boot",
-        "level":"75%"
+        "level":"30%"
       },
       {
         "name":"JavaScript",
-        "level":"70%"
+        "level":"45%"
       },
       {
         "name":"ReactJS",
-        "level":"70%"
+        "level":"20%"
       },
       {
         "name":"HTML/CSS",
-        "level":"80%"
+        "level":"50%"
       },
       {
         "name":"GIT",
-        "level":"80%"
+        "level":"40%"
       },
       {
         "name":"SQL",
-        "level":"60%"
+        "level":"30%"
       },
       {
         "name":"Docker",
