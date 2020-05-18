@@ -47,6 +47,7 @@
         "description":"Description"
       }
     ],
+    
     "skills":[
       {
         "name":"Java",
@@ -79,6 +80,25 @@
       {
         "name":"Docker",
         "level":"20%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Backend JWT Auth",
+        "category":"A backend for authentication and performing CRUD operations using JWT",
+        "url":"https://github.com/andrei-brindas/authJWT"
+      },
+      {
+        "title":"Fullstack Mobile App",
+        "category":"React Native + Spring Boot application",
+        "url":"https://github.com/andrei-brindas/MusicAlbum"
+      },
+      {
+        "title":"Spring CRUD Operations",
+        "category":"Spring Boot application configured to connect to a H2 db and performing CRUD operations",
+        "url":"https://github.com/andrei-brindas/SpringH2CRUD"
       }
     ]
   }
