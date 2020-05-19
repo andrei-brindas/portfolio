@@ -67,7 +67,7 @@
       },
       {
         "name":"HTML/CSS",
-        "level":"50%"
+        "level":"70%"
       },
       {
         "name":"GIT",
@@ -92,7 +92,7 @@
       },
       {
         "title":"Fullstack Mobile App",
-        "category":"React Native + Spring Boot application",
+        "category":"React Native part is where are showcased some music albums and where you can go directly on Amazon and buy them + SpringBoot part is where I hold a JSON file with the informations needed for the mobile application",
         "url":"https://github.com/andrei-brindas/MusicAlbum"
       },
       {
